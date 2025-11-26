@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Khalid
-- 👀 I ama a business analyst and interest in enhancing my analytics skills. 
-- 🌱 I have completed Data Analytics course by Google learning R Programming along with SQL and Tableaue basics. I've joined GitHub for data repositories, reports and other help regarding in hand experience in data analysis.
-- 💞️ I’m looking to collaborate on projects related to data analytics especially to master skills in R Programming tool. 
-- 📫 You may reach me here or to my email at khaliddwaleeed@gmail.com. Hoping to benefit from community learning.
+- 👋 Hi, I'm Khalid — a Business Analyst & Technical Writer with experience in CRM systems, SaaS products, and end-to-end documentation.
+- I specialize in BRDs, SRS, FRDs, workflow diagrams, process mapping, requirement elicitation, and user manuals.
+- I’ve authored multiple product/user manuals for real-time broadcast hardware and CRM modules.
+- Experienced in Agile workflows and PM processes.
+- 🛠️ Currently building a full product lifecycle project using GitHub Pages.
+
 
 <!---
 khalidwaleeed/khalidwaleeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
